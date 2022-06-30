@@ -4,7 +4,6 @@ In this project, it is a project where a company takes orders for customers' pro
 
 
 ## Project Overview 
-
 |<img src="https://github.com/OnurYalcinn/HeroCompany/blob/main/images/1.PNG" width="400">|<img src="https://github.com/OnurYalcinn/HeroCompany/blob/main/images/2.PNG" width="400">|
 |<img src="https://github.com/OnurYalcinn/HeroCompany/blob/main/images/3.PNG" width="400">|<img src="https://github.com/OnurYalcinn/HeroCompany/blob/main/images/4.PNG" width="400">|
 |<img src="https://github.com/OnurYalcinn/HeroCompany/blob/main/images/5.PNG" width="400">|<img src="https://github.com/OnurYalcinn/HeroCompany/blob/main/images/5.1.PNG" width="400">|
